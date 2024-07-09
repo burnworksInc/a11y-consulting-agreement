@@ -4,3 +4,6 @@
 
 ## サービスの詳細
 - [オンライン ウェブアクセシビリティ コンサルティング - バーンワークス株式会社](https://burnworks.com/service/consulting_service/)
+
+## 利用規約
+- [AGREEMENT.md](./AGREEMENT.md)
