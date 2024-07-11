@@ -10,5 +10,6 @@
 ## 利用契約
 月額・定額制プラン
 - [AGREEMENT.md](./AGREEMENT.md)
+
 スポット利用
 - [AGREEMENT_one-time-use.md](AGREEMENT_one-time-use.md)
